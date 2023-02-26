@@ -1,0 +1,80 @@
+2023-02-26 16:05:26.250  INFO winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : Starting SampleAppApplicationTests using Java 1.8.0_352 on winsoft-190 with PID 47249 (started by rakeshc in /home/rakeshc/RakeshC/Sample3TierApps/sampleapp)
+2023-02-26 16:05:26.257 DEBUG winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-02-26 16:05:26.259  INFO winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2023-02-26 16:05:26.300 DEBUG winsoft-190
+			--- [           main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1e1d3956
+2023-02-26 16:05:27.377 DEBUG winsoft-190
+			--- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-02-26 16:05:27.477 DEBUG winsoft-190
+			--- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2023-02-26 16:05:27.513 DEBUG winsoft-190
+			--- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-02-26 16:05:27.528 DEBUG winsoft-190
+			--- [           main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-02-26 16:05:27.623  INFO winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : Started SampleAppApplicationTests in 1.586 seconds (JVM running for 2.643)
+2023-02-26 16:05:27.863 DEBUG winsoft-190
+			--- [ionShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@1e1d3956, started on Sun Feb 26 16:05:26 IST 2023
+2023-02-26 16:08:52.389  INFO winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : Starting SampleAppApplicationTests using Java 1.8.0_352 on winsoft-190 with PID 50095 (started by rakeshc in /home/rakeshc/RakeshC/Sample3TierApps/sampleapp)
+2023-02-26 16:08:52.399 DEBUG winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-02-26 16:08:52.400  INFO winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2023-02-26 16:08:52.433 DEBUG winsoft-190
+			--- [           main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@4e28bdd1
+2023-02-26 16:08:53.692 DEBUG winsoft-190
+			--- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-02-26 16:08:53.825 DEBUG winsoft-190
+			--- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2023-02-26 16:08:53.870 DEBUG winsoft-190
+			--- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-02-26 16:08:53.887 DEBUG winsoft-190
+			--- [           main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-02-26 16:08:53.996  INFO winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : Started SampleAppApplicationTests in 1.832 seconds (JVM running for 2.988)
+2023-02-26 16:08:54.200 DEBUG winsoft-190
+			--- [ionShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@4e28bdd1, started on Sun Feb 26 16:08:52 IST 2023
+2023-02-26 16:10:43.074  INFO winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : Starting SampleAppApplicationTests using Java 1.8.0_352 on winsoft-190 with PID 51802 (started by rakeshc in /home/rakeshc/RakeshC/Sample3TierApps/sampleapp)
+2023-02-26 16:10:43.089 DEBUG winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-02-26 16:10:43.090  INFO winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2023-02-26 16:10:43.144 DEBUG winsoft-190
+			--- [           main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@14f5da2c
+2023-02-26 16:10:44.317 DEBUG winsoft-190
+			--- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-02-26 16:10:44.427 DEBUG winsoft-190
+			--- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2023-02-26 16:10:44.485 DEBUG winsoft-190
+			--- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-02-26 16:10:44.514 DEBUG winsoft-190
+			--- [           main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-02-26 16:10:44.633  INFO winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : Started SampleAppApplicationTests in 1.761 seconds (JVM running for 2.657)
+2023-02-26 16:10:44.871 DEBUG winsoft-190
+			--- [ionShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@14f5da2c, started on Sun Feb 26 16:10:43 IST 2023
+2023-02-26 16:16:46.032  INFO winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : Starting SampleAppApplicationTests using Java 1.8.0_352 on winsoft-190 with PID 56670 (started by rakeshc in /home/rakeshc/RakeshC/Sample3TierApps/sampleapp)
+2023-02-26 16:16:46.037 DEBUG winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-02-26 16:16:46.049  INFO winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : No active profile set, falling back to 1 default profile: "default"
+2023-02-26 16:16:46.102 DEBUG winsoft-190
+			--- [           main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@636e8cc
+2023-02-26 16:16:47.339 DEBUG winsoft-190
+			--- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-02-26 16:16:47.434 DEBUG winsoft-190
+			--- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2023-02-26 16:16:47.468 DEBUG winsoft-190
+			--- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-02-26 16:16:47.480 DEBUG winsoft-190
+			--- [           main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-02-26 16:16:47.565  INFO winsoft-190
+			--- [           main] c.s.d.SampleAppApplicationTests          : Started SampleAppApplicationTests in 1.744 seconds (JVM running for 2.632)
+2023-02-26 16:16:47.763 DEBUG winsoft-190
+			--- [ionShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@636e8cc, started on Sun Feb 26 16:16:46 IST 2023

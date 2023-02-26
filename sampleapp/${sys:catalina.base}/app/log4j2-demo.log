@@ -1,0 +1,22 @@
+2023-02-26 15:58:43.658 DEBUG winsoft-190
+			--- [           main] c.s.d.SampleAppApplication               : App Service Starting
+2023-02-26 15:58:43.757 DEBUG winsoft-190
+			--- [  restartedMain] c.s.d.SampleAppApplication               : App Service Starting
+2023-02-26 15:58:44.067  INFO winsoft-190
+			--- [  restartedMain] c.s.d.SampleAppApplication               : Starting SampleAppApplication using Java 1.8.0_352 on winsoft-190 with PID 40987 (/home/rakeshc/RakeshC/Sample3TierApps/sampleapp/target/classes started by rakeshc in /home/rakeshc/RakeshC/Sample3TierApps/sampleapp)
+2023-02-26 15:58:44.102 DEBUG winsoft-190
+			--- [  restartedMain] c.s.d.SampleAppApplication               : Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-02-26 15:58:44.103  INFO winsoft-190
+			--- [  restartedMain] c.s.d.SampleAppApplication               : No active profile set, falling back to 1 default profile: "default"
+2023-02-26 15:58:45.257 DEBUG winsoft-190
+			--- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2023-02-26 15:58:45.425 DEBUG winsoft-190
+			--- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 3 mappings in 'requestMappingHandlerMapping'
+2023-02-26 15:58:45.450 DEBUG winsoft-190
+			--- [  restartedMain] o.s.w.s.h.SimpleUrlHandlerMapping        : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2023-02-26 15:58:45.462 DEBUG winsoft-190
+			--- [  restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2023-02-26 15:58:45.580  INFO winsoft-190
+			--- [  restartedMain] c.s.d.SampleAppApplication               : Started SampleAppApplication in 1.819 seconds (JVM running for 2.545)
+2023-02-26 16:00:09.047 DEBUG winsoft-190
+			--- [  restartedMain] c.s.d.SampleAppApplication               : App Service Starting
